@@ -1,3 +1,7 @@
+py -3.11 -m venv venv
+venv\Scripts\Activate.ps1
+
+
 Terminal Enter > venv\Scripts\Activate.ps1
 
 (venv) Terminal Enter > python htft.py

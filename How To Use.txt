@@ -1,0 +1,3 @@
+Terminal Enter > venv\Scripts\Activate.ps1
+
+(venv) Terminal Enter > python handtrackingtest.py

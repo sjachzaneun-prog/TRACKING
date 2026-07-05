@@ -1,2 +1,2 @@
 # TRACKING
-credit = Mist.Ai's creator Mist
+All Credit Goes To Misto0o

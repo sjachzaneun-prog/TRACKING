@@ -1,4 +1,4 @@
-#Installing Requirements Including The Virtual Environment#
+# Installing The Requirements And Venv
 py -3.11 -m venv venv
 
 venv\Scripts\Activate.ps1
@@ -7,7 +7,7 @@ pip install opencv-python numpy
 
 pip install "mediapipe<=0.10.14"
 
-#Exit Terminal And Reopen#
+# Exit Terminal And Reopen
 
 venv\Scripts\Activate.ps1
 
